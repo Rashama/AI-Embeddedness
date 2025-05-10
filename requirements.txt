@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit==1.29.0
+openai==1.54.3
+google-generativeai==0.7.1
+Pillow==10.4.0
+
+# Transformers and ML
+transformers==4.46.1
+torch==2.0.1
+torchvision==0.15.2
+
+# Data processing
+pandas==2.1.4
+
+# File processing
+python-dotenv==1.0.1
