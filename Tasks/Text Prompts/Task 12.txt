@@ -1,0 +1,18 @@
+Company Blog Post:
+
+Text Input: "Write a blog post on the topic of 'The Future of Work' for our company website.
+Target audience:
+Current employees
+Potential job candidates
+Industry professionals
+Key themes:
+Remote work trends
+AI's impact on the workplace
+The importance of reskilling and upskilling
+Desired outputs:
+Text:
+Blog post draft (including introduction, body paragraphs, and conclusion)
+Call to action (e.g., subscribe to our newsletter, visit our careers page)
+Visuals:
+Suggested images or illustrations to accompany the text
+Infographics to visually represent data points
