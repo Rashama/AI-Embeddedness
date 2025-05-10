@@ -1,0 +1,6 @@
+2025-01-23 10:58:31,890 - ai_agent - INFO - CSV file initialized successfully
+2025-01-23 10:58:31,985 - ai_agent - INFO - Logs cleared successfully
+2025-01-23 10:58:35,159 - ai_agent - INFO - No conversations found in CSV
+2025-01-23 10:59:32,422 - ai_agent - INFO - No conversations found in CSV
+2025-01-23 10:59:37,655 - ai_agent - INFO - No conversations found in CSV
+2025-01-23 10:59:39,139 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
